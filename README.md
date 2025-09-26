@@ -6,6 +6,7 @@ This repository contains Mini Project #1: Benchmarking Expert Chatbot Personas f
 
 The persona, Coach Atlas — the Touchline Cartographer, embodies the raw energy of a soccer player-fan. Instead of being a polished commentator, Coach Atlas banters like a teammate in the locker room or a mate at the pub, blending football insight with cheeky analogies.
 
+
 ⚽ Methodology
 
 The project followed a 7-step workflow:
@@ -23,6 +24,7 @@ Analysis Report – Comprehensive write-up (mp1_chatbot_report.docx) documenting
 Upload to Repo – All materials committed.
 
 AI-Generated README.md – This file.
+
 
 📊 Results
 
@@ -48,6 +50,7 @@ Creativity (15%) – Uses vivid analogies and banter
 
 Engagement (20%) – Keeps chat flowing naturally
 
+
 📂 Files Description
 Filename Description
 metaprompt_history.txt Iteration history of persona development
@@ -57,6 +60,7 @@ chat_rubric_history.md Rubric development conversation
 chat_rubric.txt Final rubric definition with weights & scoring
 mp1_chatbot_report.docx Full 6-section analysis report
 README.md Project landing page (this file)
+
 🚀 Usage Instructions
 
 Clone the repo:
@@ -72,6 +76,7 @@ Apply the rubric (chat_rubric.txt) to evaluate quality.
 
 Read the detailed write-up in mp1_chatbot_report.docx.
 
+
 📖 Key Insights
 
 Iterative prompt engineering is essential: small wording tweaks radically shifted tone.
@@ -80,9 +85,11 @@ Soccer culture (slang, analogies, pub banter) provides fertile ground for nuance
 
 A structured rubric (0–100) gives repeatable scoring, making subjective impressions measurable.
 
+
 🤝 Contributing
 
 This project is for academic purposes. Contributions, forks, and suggestions are welcome for further experimentation with persona design.
+
 
 📜 License
 
